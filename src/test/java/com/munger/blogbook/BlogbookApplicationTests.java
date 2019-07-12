@@ -12,5 +12,9 @@ public class BlogbookApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
+	@Test
+	public void ts(){
+
+	}
 
 }
